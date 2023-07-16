@@ -1,0 +1,381 @@
+,FileName,XMin,XMax,YMin,YMax,ClassName
+0,kicking_ 2_000003.jpg,512,903,626,1021,kicking
+1,kicking_ 2_000006.jpg,581,964,597,1021,kicking
+2,kicking_ 2_000011.jpg,536,1090,554,1021,kicking
+3,kicking_ 2_000015.jpg,547,1186,593,1039,kicking
+4,kicking_ 2_000018.jpg,581,1218,628,1021,kicking
+5,kicking_ 2_000023.jpg,571,1173,630,1026,kicking
+6,kicking_ 2_000027.jpg,510,1175,637,1032,kicking
+7,kicking_ 2_000030.jpg,516,1129,669,1030,kicking
+8,kicking_ 2_000088.jpg,549,981,608,1039,kicking
+9,kicking_ 2_000091.jpg,566,1068,569,1041,kicking
+10,kicking_ 2_000093.jpg,601,1121,565,1043,kicking
+11,kicking_ 2_000095.jpg,540,1173,567,1037,kicking
+12,kicking_ 2_000096.jpg,612,1208,578,1045,kicking
+13,kicking_ 2_000098.jpg,623,1234,589,1041,kicking
+14,kicking_ 2_000100.jpg,614,1229,621,1037,kicking
+15,kicking_ 2_000103.jpg,616,1236,634,1047,kicking
+16,kicking_ 2_000107.jpg,618,1229,665,1054,kicking
+17,kicking_ 2_000162.jpg,573,984,606,1074,kicking
+18,kicking_ 2_000169.jpg,601,1186,580,1080,kicking
+19,kicking_ 2_000173.jpg,575,1266,617,1080,kicking
+20,kicking_ 2_000176.jpg,610,1271,634,1080,kicking
+21,kicking_ 2_000179.jpg,586,1225,613,1080,kicking
+22,kicking_ 2_000243.jpg,692,1014,591,1076,kicking
+23,kicking_ 2_000245.jpg,651,1051,567,1080,kicking
+24,kicking_ 2_000251.jpg,699,1166,554,1069,kicking
+25,kicking_ 2_000254.jpg,681,1258,574,1080,kicking
+26,kicking_ 2_000256.jpg,708,1301,587,1080,kicking
+27,kicking_ 2_000258.jpg,690,1336,604,1080,kicking
+28,kicking_ 2_000261.jpg,697,1336,604,1080,kicking
+29,kicking_ 2_000335.jpg,699,1012,650,989,kicking
+30,kicking_ 2_000338.jpg,681,1014,606,995,kicking
+31,kicking_ 2_000340.jpg,640,1042,561,1017,kicking
+32,lockpicking_ 4_000684.jpg,625,984,465,765,lockpicking
+33,lockpicking_ 4_000685.jpg,617,980,477,755,lockpicking
+34,lockpicking_ 4_000686.jpg,625,978,475,755,lockpicking
+35,lockpicking_ 4_000687.jpg,623,978,483,761,lockpicking
+36,lockpicking_ 4_000688.jpg,612,996,479,761,lockpicking
+37,lockpicking_ 4_000689.jpg,621,992,473,753,lockpicking
+38,lockpicking_ 4_000690.jpg,606,980,475,761,lockpicking
+39,lockpicking_ 4_000691.jpg,633,988,469,751,lockpicking
+40,lockpicking_ 4_000692.jpg,619,988,475,753,lockpicking
+41,lockpicking_ 4_000693.jpg,627,988,475,759,lockpicking
+42,lockpicking_ 4_000694.jpg,621,980,463,761,lockpicking
+43,lockpicking_ 4_000695.jpg,619,982,477,749,lockpicking
+44,lockpicking_ 4_000696.jpg,633,984,461,741,lockpicking
+45,lockpicking_ 4_000697.jpg,572,984,481,755,lockpicking
+46,lockpicking_ 4_000698.jpg,602,984,453,753,lockpicking
+47,lockpicking_ 4_000699.jpg,616,994,461,763,lockpicking
+48,lockpicking_ 4_000700.jpg,588,1006,459,755,lockpicking
+49,lockpicking_ 4_000701.jpg,608,990,463,741,lockpicking
+50,lockpicking_ 4_000702.jpg,620,986,467,753,lockpicking
+51,lockpicking_ 4_000703.jpg,602,980,469,755,lockpicking
+52,lockpicking_ 4_000704.jpg,623,984,473,747,lockpicking
+53,lockpicking_ 4_000705.jpg,590,980,473,755,lockpicking
+54,lockpicking_ 4_000706.jpg,618,984,467,761,lockpicking
+55,lockpicking_ 4_000707.jpg,604,986,459,775,lockpicking
+56,lockpicking_ 4_001132.jpg,574,965,498,932,lockpicking
+57,lockpicking_ 4_001133.jpg,618,967,528,936,lockpicking
+58,lockpicking_ 4_001134.jpg,604,957,516,936,lockpicking
+59,lockpicking_ 4_001135.jpg,606,959,526,939,lockpicking
+60,lockpicking_ 4_001136.jpg,610,957,522,941,lockpicking
+61,lockpicking_ 4_001137.jpg,596,949,512,930,lockpicking
+62,lockpicking_ 4_001138.jpg,614,959,553,926,lockpicking
+63,lockpicking_ 4_001139.jpg,594,949,545,936,lockpicking
+64,lockpicking_ 4_001140.jpg,604,949,536,939,lockpicking
+65,lockpicking_ 4_001141.jpg,600,965,530,947,lockpicking
+66,lockpicking_ 4_001142.jpg,547,957,524,939,lockpicking
+67,lockpicking_ 4_001143.jpg,596,957,526,930,lockpicking
+68,lockpicking_ 4_001144.jpg,574,945,530,930,lockpicking
+69,lockpicking_ 4_001145.jpg,578,963,524,932,lockpicking
+70,lockpicking_ 4_001146.jpg,582,951,514,945,lockpicking
+71,lockpicking_ 4_001147.jpg,512,955,502,943,lockpicking
+72,lockpicking_ 4_001148.jpg,586,957,522,939,lockpicking
+73,lockpicking_ 4_001149.jpg,604,955,512,922,lockpicking
+74,lockpicking_ 4_001150.jpg,604,967,522,947,lockpicking
+75,lockpicking_ 4_001151.jpg,594,963,514,930,lockpicking
+76,lockpicking_ 4_001152.jpg,559,957,536,934,lockpicking
+77,lockpicking_ 4_001153.jpg,604,941,526,928,lockpicking
+78,lockpicking_ 4_001154.jpg,584,945,518,922,lockpicking
+79,lockpicking_ 4_001155.jpg,610,951,514,924,lockpicking
+80,lockpicking_ 4_001156.jpg,594,943,518,914,lockpicking
+81,lockpicking_ 4_001157.jpg,590,949,508,914,lockpicking
+82,lockpicking_ 4_001158.jpg,586,957,514,920,lockpicking
+83,lockpicking_ 4_001159.jpg,594,957,490,922,lockpicking
+84,lockpicking_ 4_001160.jpg,569,961,498,926,lockpicking
+85,lockpicking_ 4_001161.jpg,584,953,508,920,lockpicking
+86,lockpicking_ 4_001162.jpg,569,974,514,914,lockpicking
+87,lockpicking_ 4_001163.jpg,584,951,487,912,lockpicking
+88,lockpicking_ 4_001164.jpg,586,965,516,914,lockpicking
+89,lockpicking_ 4_001165.jpg,545,951,504,920,lockpicking
+90,lockpicking_ 4_001166.jpg,586,953,516,920,lockpicking
+91,lockpicking_ 4_001167.jpg,584,967,522,924,lockpicking
+92,lockpicking_ 4_001168.jpg,576,961,522,914,lockpicking
+93,lockpicking_ 4_001169.jpg,586,961,522,916,lockpicking
+94,lockpicking_ 4_001170.jpg,574,976,516,918,lockpicking
+95,lockpicking_ 4_001171.jpg,598,963,530,906,lockpicking
+96,lockpicking_ 4_001172.jpg,580,959,526,918,lockpicking
+97,lockpicking_ 4_001173.jpg,574,961,526,902,lockpicking
+98,lockpicking_ 4_001174.jpg,572,965,524,908,lockpicking
+99,lockpicking_ 4_001175.jpg,567,969,543,890,lockpicking
+100,lockpicking_ 4_001176.jpg,561,965,541,896,lockpicking
+101,lockpicking_ 4_001177.jpg,574,957,539,900,lockpicking
+102,lockpicking_ 4_001668.jpg,645,992,414,749,lockpicking
+103,lockpicking_ 4_001669.jpg,657,1012,404,749,lockpicking
+104,lockpicking_ 4_001670.jpg,659,988,420,730,lockpicking
+105,lockpicking_ 4_001671.jpg,659,998,412,730,lockpicking
+106,lockpicking_ 4_001672.jpg,672,998,412,751,lockpicking
+107,lockpicking_ 4_001673.jpg,665,1008,418,728,lockpicking
+108,lockpicking_ 4_001674.jpg,655,994,396,747,lockpicking
+109,lockpicking_ 4_001675.jpg,665,1006,418,743,lockpicking
+110,lockpicking_ 4_001676.jpg,663,1000,418,720,lockpicking
+111,lockpicking_ 4_001677.jpg,665,994,422,728,lockpicking
+112,lockpicking_ 4_001678.jpg,653,1000,406,730,lockpicking
+113,lockpicking_ 4_001679.jpg,659,1002,418,726,lockpicking
+114,lockpicking_ 4_001680.jpg,659,1002,404,741,lockpicking
+115,lockpicking_ 4_001681.jpg,641,986,385,722,lockpicking
+116,lockpicking_ 4_001682.jpg,653,1008,406,722,lockpicking
+117,lockpicking_ 4_001683.jpg,647,1014,385,726,lockpicking
+118,lockpicking_ 4_001684.jpg,651,1006,402,712,lockpicking
+119,lockpicking_ 4_001685.jpg,657,1002,406,724,lockpicking
+120,lockpicking_ 4_001686.jpg,667,1018,406,724,lockpicking
+121,lockpicking_ 4_001687.jpg,651,1004,414,720,lockpicking
+122,lockpicking_ 4_001688.jpg,665,1000,422,720,lockpicking
+123,lockpicking_ 4_001689.jpg,659,1000,426,732,lockpicking
+124,lockpicking_ 4_001690.jpg,643,1006,416,716,lockpicking
+125,lockpicking_ 4_001691.jpg,633,1010,410,724,lockpicking
+126,lockpicking_ 4_001692.jpg,629,1016,408,724,lockpicking
+127,lockpicking_ 4_001693.jpg,655,1002,414,720,lockpicking
+128,lockpicking_ 4_001694.jpg,647,998,424,728,lockpicking
+129,lockpicking_ 4_001695.jpg,653,1008,422,718,lockpicking
+130,lockpicking_ 4_001696.jpg,661,998,424,751,lockpicking
+131,lockpicking_ 4_001697.jpg,651,1002,422,730,lockpicking
+132,lockpicking_ 4_001698.jpg,651,996,441,724,lockpicking
+133,lockpicking_ 4_001699.jpg,635,1010,424,728,lockpicking
+134,lockpicking_ 4_001700.jpg,649,1010,426,732,lockpicking
+135,lockpicking_ 4_001701.jpg,653,990,432,730,lockpicking
+136,lockpicking_ 4_001702.jpg,653,998,439,732,lockpicking
+137,lockpicking_ 4_001703.jpg,647,1006,441,728,lockpicking
+138,lockpicking_ 4_001704.jpg,649,1006,439,736,lockpicking
+139,lockpicking_ 4_001705.jpg,647,1004,439,720,lockpicking
+140,lockpicking_ 4_001706.jpg,633,1006,426,730,lockpicking
+141,lockpicking_ 4_001707.jpg,616,1000,445,726,lockpicking
+142,lockpicking_ 4_001708.jpg,614,1006,439,736,lockpicking
+143,lockpicking_ 4_001709.jpg,645,994,436,730,lockpicking
+144,lockpicking_ 4_001710.jpg,631,1006,439,728,lockpicking
+145,lockpicking_ 4_001711.jpg,639,1004,434,732,lockpicking
+146,lockpicking_ 4_001712.jpg,643,1010,447,745,lockpicking
+147,lockpicking_ 4_001713.jpg,643,1016,441,741,lockpicking
+148,lockpicking_ 4_001714.jpg,612,1023,434,736,lockpicking
+149,lockpicking_ 4_001715.jpg,629,1002,443,741,lockpicking
+150,lockpicking_ 4_001716.jpg,635,998,443,753,lockpicking
+151,lockpicking_ 4_001717.jpg,657,1002,439,739,lockpicking
+152,peeking_ 9_000253.jpg,1064,1476,536,1080,Peeking
+153,peeking_ 9_000441.jpg,884,1552,564,1076,Peeking
+154,peeking_ 9_000461.jpg,1017,1490,585,1080,Peeking
+155,peeking_ 9_000462.jpg,990,1473,585,1080,Peeking
+156,peeking_ 9_000465.jpg,950,1470,582,1080,Peeking
+157,peeking_ 9_000471.jpg,907,1480,585,1080,Peeking
+158,peeking_ 9_000476.jpg,910,1473,588,1080,Peeking
+159,peeking_ 9_000484.jpg,893,1473,575,1080,Peeking
+160,peeking_ 9_000490.jpg,897,1473,585,1080,Peeking
+161,peeking_ 9_000498.jpg,897,1480,582,1080,Peeking
+162,peeking_ 9_000507.jpg,880,1477,578,1080,Peeking
+163,peeking_ 9_000515.jpg,917,1487,585,1080,Peeking
+164,peeking_ 9_000516.jpg,950,1477,598,1062,Peeking
+165,peeking_ 9_000520.jpg,840,1477,598,1080,Peeking
+166,peeking_ 9_000525.jpg,850,1463,572,1080,Peeking
+167,peeking_ 9_000531.jpg,840,1467,598,1080,Peeking
+168,peeking_ 9_000539.jpg,850,1470,582,1080,Peeking
+169,peeking_ 9_000544.jpg,860,1477,585,1080,Peeking
+170,peeking_ 9_000551.jpg,847,1467,575,1080,Peeking
+171,peeking_ 9_000552.jpg,867,1470,585,1080,Peeking
+172,peeking_ 9_000557.jpg,847,1467,585,1062,Peeking
+173,peeking_ 9_000558.jpg,857,1470,572,1080,Peeking
+174,peeking_ 9_000564.jpg,863,1463,605,1052,Peeking
+175,peeking_ 9_000565.jpg,863,1467,592,1080,Peeking
+176,peeking_ 9_000568.jpg,833,1477,598,1080,Peeking
+177,peeking_ 9_000574.jpg,843,1463,592,1080,Peeking
+178,peeking_ 9_000578.jpg,850,1480,595,1080,Peeking
+179,peeking_ 9_000581.jpg,853,1470,598,1080,Peeking
+180,peeking_ 9_000586.jpg,843,1473,595,1080,Peeking
+181,peeking_ 9_000592.jpg,840,1487,588,1080,Peeking
+182,peeking_ 9_000601.jpg,830,1473,602,1080,Peeking
+183,peeking_ 9_000614.jpg,807,1470,592,1080,Peeking
+184,peeking_ 9_000622.jpg,823,1473,598,1080,Peeking
+185,peeking_ 9_000625.jpg,840,1470,598,1080,Peeking
+186,peeking_ 9_000629.jpg,820,1477,592,1065,Peeking
+187,peeking_ 9_000633.jpg,810,1477,592,1080,Peeking
+188,peeking_ 9_000635.jpg,870,1473,578,1080,Peeking
+189,peeking_ 9_000639.jpg,793,1483,582,1080,Peeking
+190,peeking_ 9_000641.jpg,793,1477,572,1080,Peeking
+191,peeking_ 9_000643.jpg,797,1470,565,1080,Peeking
+192,peeking_ 9_000646.jpg,790,1480,568,1080,Peeking
+193,peeking_ 9_000867.jpg,1033,1373,202,515,Peeking
+194,peeking_ 9_000868.jpg,1063,1377,195,492,Peeking
+195,peeking_ 9_000870.jpg,1017,1373,185,512,Peeking
+196,peeking_ 9_000873.jpg,1040,1390,178,502,Peeking
+197,peeking_ 9_000876.jpg,1080,1380,192,505,Peeking
+198,peeking_ 9_000879.jpg,1070,1390,202,508,Peeking
+199,peeking_ 9_000882.jpg,1053,1367,202,512,Peeking
+200,peeking_ 9_000885.jpg,1093,1373,205,512,Peeking
+201,peeking_ 9_000888.jpg,1090,1367,215,542,Peeking
+202,peeking_ 9_000891.jpg,1080,1377,228,522,Peeking
+203,peeking_ 9_000894.jpg,1110,1380,228,532,Peeking
+204,peeking_ 9_000898.jpg,1100,1373,232,535,Peeking
+205,peeking_ 9_000901.jpg,1130,1370,248,535,Peeking
+206,peeking_ 9_000902.jpg,1133,1367,248,542,Peeking
+207,peeking_ 9_000905.jpg,1113,1367,255,545,Peeking
+208,peeking_ 9_000908.jpg,1120,1380,255,548,Peeking
+209,peeking_ 9_000912.jpg,1113,1380,258,565,Peeking
+210,peeking_ 9_000916.jpg,1093,1370,262,555,Peeking
+211,peeking_ 9_000920.jpg,1090,1380,255,565,Peeking
+212,peeking_ 9_000924.jpg,1110,1377,262,545,Peeking
+213,peeking_ 9_000930.jpg,1100,1370,265,572,Peeking
+214,peeking_ 9_000934.jpg,1093,1367,268,552,Peeking
+215,peeking_ 9_000938.jpg,1047,1377,265,545,Peeking
+216,peeking_ 9_000943.jpg,1107,1373,258,538,Peeking
+217,peeking_ 9_000947.jpg,1107,1370,255,542,Peeking
+218,peeking_ 9_000952.jpg,1130,1363,255,538,Peeking
+219,peeking_ 9_000957.jpg,1077,1370,255,542,Peeking
+220,peeking_ 9_000962.jpg,1083,1367,258,545,Peeking
+221,peeking_ 9_000968.jpg,1057,1370,265,552,Peeking
+222,peeking_ 9_000972.jpg,1070,1367,265,548,Peeking
+223,peeking_ 9_000976.jpg,1073,1367,282,562,Peeking
+224,peeking_ 9_000980.jpg,1097,1370,285,565,Peeking
+225,peeking_ 9_000984.jpg,1070,1370,282,565,Peeking
+226,peeking_ 9_000988.jpg,1080,1373,292,572,Peeking
+227,peeking_ 9_000992.jpg,1110,1373,285,562,Peeking
+228,peeking_ 9_000996.jpg,1077,1367,285,575,Peeking
+229,peeking_ 9_001000.jpg,1117,1370,302,585,Peeking
+230,peeking_ 9_001004.jpg,1103,1373,302,565,Peeking
+231,peeking_ 9_001009.jpg,1107,1380,295,562,Peeking
+232,peeking_ 9_001014.jpg,1093,1380,295,585,Peeking
+233,peeking_ 9_001019.jpg,1097,1367,292,565,Peeking
+234,peeking_ 9_001024.jpg,1073,1373,288,575,Peeking
+235,peeking_ 9_001028.jpg,1077,1370,288,572,Peeking
+236,peeking_ 9_001032.jpg,1063,1377,295,562,Peeking
+237,peeking_ 9_001037.jpg,1093,1373,292,562,Peeking
+238,peeking_ 9_001042.jpg,1113,1367,292,558,Peeking
+239,peeking_ 9_001046.jpg,1093,1367,288,568,Peeking
+240,peeking_ 9_001052.jpg,1083,1373,288,568,Peeking
+241,peeking_ 9_001058.jpg,1100,1373,292,565,Peeking
+242,peeking_ 9_001062.jpg,1117,1370,295,552,Peeking
+243,peeking_ 9_001067.jpg,1103,1373,282,562,Peeking
+244,peeking_ 9_001072.jpg,1060,1367,288,558,Peeking
+245,peeking_ 9_001076.jpg,1097,1377,292,548,Peeking
+246,peeking_ 9_001081.jpg,1127,1373,295,565,Peeking
+247,peeking_ 9_001085.jpg,1120,1370,288,565,Peeking
+248,peeking_ 9_001090.jpg,1120,1370,295,558,Peeking
+249,peeking_ 9_001094.jpg,1103,1380,288,568,Peeking
+250,peeking_ 9_001099.jpg,1100,1363,288,565,Peeking
+251,peeking_ 9_001104.jpg,1117,1360,292,562,Peeking
+252,peeking_ 9_001108.jpg,1110,1370,288,548,Peeking
+253,peeking_ 9_001112.jpg,1097,1363,295,568,Peeking
+254,peeking_ 9_001116.jpg,1110,1373,288,562,Peeking
+255,peeking_ 9_001123.jpg,1097,1373,302,558,Peeking
+256,peeking_ 9_001127.jpg,1103,1380,295,575,Peeking
+257,peeking_ 9_001132.jpg,1087,1370,302,568,Peeking
+258,peeking_ 9_001139.jpg,1127,1377,302,562,Peeking
+259,peeking_ 9_001144.jpg,1120,1370,305,568,Peeking
+260,peeking_ 9_001148.jpg,1110,1383,292,582,Peeking
+261,peeking_ 9_001154.jpg,1127,1377,298,565,Peeking
+262,peeking_ 9_001160.jpg,1093,1380,278,565,Peeking
+263,peeking_ 9_001162.jpg,1097,1397,265,562,Peeking
+264,peeking_ 9_001164.jpg,1110,1380,265,568,Peeking
+265,peeking_ 9_001167.jpg,1083,1377,252,558,Peeking
+266,peeking_ 9_001170.jpg,1113,1373,238,542,Peeking
+267,peeking_ 9_001172.jpg,1110,1373,222,548,Peeking
+268,peeking_ 9_001175.jpg,1107,1373,218,542,Peeking
+269,peeking_ 9_001342.jpg,1113,1413,165,482,Peeking
+270,peeking_ 9_001344.jpg,1117,1403,158,495,Peeking
+271,peeking_ 9_001348.jpg,1127,1403,158,492,Peeking
+272,peeking_ 9_001351.jpg,1123,1403,162,505,Peeking
+273,peeking_ 9_001354.jpg,1120,1410,162,495,Peeking
+274,peeking_ 9_001357.jpg,1153,1407,162,488,Peeking
+275,peeking_ 9_001361.jpg,1120,1403,162,482,Peeking
+276,peeking_ 9_001365.jpg,1143,1410,162,495,Peeking
+277,peeking_ 9_001370.jpg,1137,1400,165,475,Peeking
+278,peeking_ 9_001374.jpg,1160,1400,168,472,Peeking
+279,peeking_ 9_001378.jpg,1157,1400,172,455,Peeking
+280,peeking_ 9_001381.jpg,1153,1400,165,492,Peeking
+281,peeking_ 9_001384.jpg,1193,1407,168,478,Peeking
+282,peeking_ 9_001389.jpg,1170,1407,175,472,Peeking
+283,peeking_ 9_001393.jpg,1173,1403,175,482,Peeking
+284,peeking_ 9_001397.jpg,1140,1403,172,485,Peeking
+285,shoulderslam_2_001346.jpg,713,1163,155,912,shoulderslam
+286,shoulderslam_2_001349.jpg,707,1167,142,915,shoulderslam
+287,shoulderslam_2_001351.jpg,710,1173,158,882,shoulderslam
+288,shoulderslam_2_001354.jpg,710,1187,155,902,shoulderslam
+289,shoulderslam_2_001357.jpg,717,1203,168,912,shoulderslam
+290,shoulderslam_2_001360.jpg,710,1213,152,905,shoulderslam
+291,shoulderslam_2_001363.jpg,733,1193,145,905,shoulderslam
+292,shoulderslam_2_001366.jpg,720,1170,155,908,shoulderslam
+293,shoulderslam_2_001369.jpg,707,1167,152,915,shoulderslam
+294,shoulderslam_2_001372.jpg,717,1157,155,908,shoulderslam
+295,shoulderslam_2_001375.jpg,703,1170,162,908,shoulderslam
+296,shoulderslam_2_001377.jpg,703,1147,168,915,shoulderslam
+297,shoulderslam_2_001413.jpg,703,1143,155,908,shoulderslam
+298,shoulderslam_2_001416.jpg,657,1157,158,912,shoulderslam
+299,shoulderslam_2_001418.jpg,677,1167,152,908,shoulderslam
+300,shoulderslam_2_001421.jpg,680,1183,145,908,shoulderslam
+301,shoulderslam_2_001424.jpg,677,1200,158,908,shoulderslam
+302,shoulderslam_2_001427.jpg,703,1203,165,905,shoulderslam
+303,shoulderslam_2_001430.jpg,697,1207,158,908,shoulderslam
+304,shoulderslam_2_001433.jpg,707,1207,168,912,shoulderslam
+305,shoulderslam_2_001436.jpg,697,1187,158,905,shoulderslam
+306,shoulderslam_2_001439.jpg,697,1183,148,915,shoulderslam
+307,shoulderslam_2_001442.jpg,687,1167,152,905,shoulderslam
+308,shoulderslam_2_001445.jpg,683,1163,142,895,shoulderslam
+309,shoulderslam_2_001448.jpg,677,1143,145,912,shoulderslam
+310,shoulderslam_2_001451.jpg,667,1127,165,905,shoulderslam
+311,shoulderslam_2_001491.jpg,690,1147,158,928,shoulderslam
+312,shoulderslam_2_001493.jpg,687,1160,152,922,shoulderslam
+313,shoulderslam_2_001496.jpg,710,1160,145,922,shoulderslam
+314,shoulderslam_2_001499.jpg,707,1183,148,918,shoulderslam
+315,shoulderslam_2_001502.jpg,717,1203,155,908,shoulderslam
+316,shoulderslam_2_001505.jpg,723,1217,162,905,shoulderslam
+317,shoulderslam_2_001508.jpg,723,1203,145,905,shoulderslam
+318,shoulderslam_2_001510.jpg,717,1210,148,928,shoulderslam
+319,shoulderslam_2_001513.jpg,723,1203,148,895,shoulderslam
+320,shoulderslam_2_001516.jpg,723,1197,152,902,shoulderslam
+321,shoulderslam_2_001519.jpg,717,1177,142,918,shoulderslam
+322,shoulderslam_2_001522.jpg,700,1160,135,912,shoulderslam
+323,shoulderslam_2_001525.jpg,697,1167,148,902,shoulderslam
+324,shoulderslam_2_001528.jpg,687,1153,148,905,shoulderslam
+325,shoulderslam_2_001568.jpg,650,1163,142,905,shoulderslam
+326,shoulderslam_2_001571.jpg,670,1180,138,905,shoulderslam
+327,shoulderslam_2_001574.jpg,687,1173,142,902,shoulderslam
+328,shoulderslam_2_001578.jpg,713,1177,138,915,shoulderslam
+329,shoulderslam_2_001581.jpg,733,1197,145,878,shoulderslam
+330,shoulderslam_2_001582.jpg,747,1180,152,922,shoulderslam
+331,shoulderslam_2_001584.jpg,767,1167,148,898,shoulderslam
+332,shoulderslam_2_001585.jpg,787,1183,142,922,shoulderslam
+333,shoulderslam_2_001587.jpg,767,1173,145,902,shoulderslam
+334,shoulderslam_2_001589.jpg,777,1187,155,915,shoulderslam
+335,shoulderslam_2_001591.jpg,757,1160,132,918,shoulderslam
+336,shoulderslam_2_001593.jpg,737,1160,148,922,shoulderslam
+337,shoulderslam_2_001595.jpg,737,1147,148,912,shoulderslam
+338,shoulderslam_2_001597.jpg,733,1130,135,932,shoulderslam
+339,shoulderslam_2_001599.jpg,753,1127,158,945,shoulderslam
+340,shoulderslam_2_001680.jpg,817,1180,165,598,shoulderslam
+341,shoulderslam_2_001682.jpg,880,1183,168,568,shoulderslam
+342,shoulderslam_2_001685.jpg,887,1190,162,575,shoulderslam
+343,shoulderslam_2_001687.jpg,893,1190,178,605,shoulderslam
+344,shoulderslam_2_001689.jpg,903,1200,182,562,shoulderslam
+345,shoulderslam_2_001692.jpg,870,1193,172,582,shoulderslam
+346,shoulderslam_2_001694.jpg,870,1187,165,572,shoulderslam
+347,shoulderslam_2_001696.jpg,873,1200,185,578,shoulderslam
+348,shoulderslam_2_001699.jpg,863,1177,192,555,shoulderslam
+349,shoulderslam_2_001701.jpg,863,1173,198,538,shoulderslam
+350,shoulderslam_2_001704.jpg,857,1173,178,542,shoulderslam
+351,shoulderslam_2_001707.jpg,853,1163,182,552,shoulderslam
+352,shoulderslam_2_001710.jpg,823,1157,188,558,shoulderslam
+353,shoulderslam_2_001714.jpg,817,1140,182,542,shoulderslam
+354,shoulderslam_2_001746.jpg,790,1110,148,522,shoulderslam
+355,shoulderslam_2_001748.jpg,807,1127,148,532,shoulderslam
+356,shoulderslam_2_001750.jpg,813,1143,138,532,shoulderslam
+357,shoulderslam_2_001752.jpg,840,1157,132,535,shoulderslam
+358,shoulderslam_2_001754.jpg,837,1190,125,528,shoulderslam
+359,shoulderslam_2_001756.jpg,857,1183,125,528,shoulderslam
+360,shoulderslam_2_001758.jpg,867,1187,122,538,shoulderslam
+361,shoulderslam_2_001761.jpg,880,1193,135,528,shoulderslam
+362,shoulderslam_2_001763.jpg,890,1187,118,512,shoulderslam
+363,shoulderslam_2_001765.jpg,897,1200,118,525,shoulderslam
+364,shoulderslam_2_001767.jpg,880,1190,128,535,shoulderslam
+365,shoulderslam_2_001770.jpg,873,1190,125,542,shoulderslam
+366,shoulderslam_2_001772.jpg,873,1193,118,518,shoulderslam
+367,shoulderslam_2_001774.jpg,873,1183,108,525,shoulderslam
+368,shoulderslam_2_001777.jpg,867,1180,128,522,shoulderslam
+369,shoulderslam_2_001779.jpg,843,1183,118,522,shoulderslam
+370,shoulderslam_2_001781.jpg,847,1173,128,542,shoulderslam
+371,shoulderslam_2_001784.jpg,833,1160,115,528,shoulderslam
+372,shoulderslam_2_001828.jpg,827,1150,122,525,shoulderslam
+373,shoulderslam_2_001831.jpg,847,1163,108,512,shoulderslam
+374,shoulderslam_2_001834.jpg,850,1177,105,498,shoulderslam
+375,shoulderslam_2_001837.jpg,863,1183,115,525,shoulderslam
+376,shoulderslam_2_001839.jpg,857,1180,118,532,shoulderslam
+377,shoulderslam_2_001841.jpg,887,1203,122,508,shoulderslam
+378,shoulderslam_2_001843.jpg,890,1197,128,532,shoulderslam
+379,shoulderslam_2_001845.jpg,887,1200,128,508,shoulderslam
